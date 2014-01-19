@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/whiteBoard"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/whiteBoard">
+    </item>
+    <item
+        android:id="@+id/Chat"
+        android:showAsAction="ifRoom|withText"
+        android:title="One Chat">
+    </item>
+    <item
+        android:id="@+id/askQuestion"
+        android:showAsAction="ifRoom|withText"
+        android:title="Ask Question">
+    </item>
+    <item
+        android:id="@+id/powerPoint"
+        android:showAsAction="ifRoom|withText"
+        android:title="PowerPoint">
+    </item>
+        <item
+        android:id="@+id/attendance"
+        android:showAsAction="ifRoom|withText"
+        android:title="Attendance">
+    </item>
+
+</menu>

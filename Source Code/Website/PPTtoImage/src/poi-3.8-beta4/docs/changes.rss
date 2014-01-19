@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91"><channel><title>POI Changes</title><link>http://poi.apache.org//changes.html</link><description>POI Changes</description><language>en-us</language><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51678 - Extracting text from Bug51524.zip is slow</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51671 - HWPFDocument.write based on NPOIFSFileSystem throws a NullPointerException</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              support for tables and hyperlinks in XSLF</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51535 - correct signed vs unsigned short reading in NDocumentInputStream</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51634 - support SXSSF streaming from templates</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              initial support for XSLF usermodel API</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51187 - fixed OPCPackage to correctly handle self references</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51635 - Improved performance of XSSFSheet#write</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              47731 - Word Extractor considers text copied from some website as an embedded object</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Add Word-to-Text converter and use it as replacement for WordExtractor</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51604 - replace text fails for doc ( poi 3.8 beta release from download site )</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              Fixed incorrect encoding of non-breaking space (0xA0) in SXSSF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Support for conditional formatting in XSSF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Support isRightToLeft and setRightToLeft on the common spreadsheet Sheet interface, as per existing HSSF support</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              50209 - Fixed evaluation of Subtotals to ignore nested subtotals</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              44431 - HWPFDocument.write destroys fields</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              50401 - fixed EscherProperty to return property name instead of 'unknown' for complex properties </description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Initial support for endnotes and footnotes in HWPF</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51470 - avoid exception when cloning XSSF sheets with background images</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51481 - Fixed autofilters in HSSF to avoid warnings in Excel 2007</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51533 - Avoid exception when changing name of a sheet containing shared formulas</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Support for appending images to existing drawings in HSSF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Initial support for bookmarks in HWPF</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              46250 - Fixed cloning worksheets with images</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51524 - PapBinTable constructor is slow (regression)</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51514 - allow HSSFObjectData to work with both POIFS and NPOIFS</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51514 - avoid NPE when copying nodes from one HSSF workbook to a new one, when opened from NPOIFS</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51504 - avoid NPE when DefaultRowHeight or DefaultColumnWidth records are missing</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51502 - Correct Subtotal function javadoc entry</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Support for hyperlinks in SXSSF</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              49933 - Word 6/95 documents with sections cause ArrayIndexOutOfBoundsException</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51469 - XSSF support for row styles, to match existing HSSF functionality</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51476 - Correct XSSF cell formatting in HTML export</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51486 - XWPF support for adding new footnotes</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              48065 - Problems with save output of HWPF (losing formatting)</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              47563 - Exception when working with table</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              47287 - StringIndexOutOfBoundsException in CharacterRun.replaceText()</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              46817 - Regression: Text from some table cells missing</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Add getOverallRange() method to HWPFDocumentCore</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              PAPX referenced outside of TextPiecesTable are ignored now and not loaded</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              Fix main part range (and section) detection for files with additional parts (like footers/headers).</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              Fix wrong TextPiece parsing in very rare cases like Bug33519.doc</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              Inner tables are correctly supported</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Allow user to retrieve Table nesting level (based on file information)</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Functionality of internal tool HWPFLister is greatly improved, including output of document PAPX and paragraphs</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Expand Word structures definitions (TAP, PAP, TLP, etc) based on official documentation</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Add Excel-to-HTML converter (2007 versions)</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Add Word-to-HTML converter (95-2007 versions)</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              Skip wrong-type SPRMs when characters SPRM is expected</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              Add toStrings() methods to internal HWPF structures: BorderCode, PAPX, Paragraph, PieceDescriptor, Section, SEPX, SprmOperation, TextPiece etc.</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51474 - SXSSF handling for null strings</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              48294 - Fixed HSSFWorkbook.setSheetOrder() to respect inter-sheet references </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51448 - Avoid exception when evaluating workbooks with more than 256 sheets </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51458 - Correct BitField wrapping when setting large values</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51460 - Improve HSSF performance when loading very long rows, by switching the CellValue array to an iterator</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51444 - Prevent corrupted output when saving files created by LibreOffice 3.3 </description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51422 - Support using RecalcIdRecord to trigger a full formula recalculation on load  </description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              50474 - Example demonstrating how to update Excel workbook embedded in a WordprocessingML document </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51431 - Avoid IndexOutOfBoundException when removing freeze panes in XSSF </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              48877 - Fixed XSSFRichTextString to respect leading and trailing line breaks </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              49564 - Fixed default behaviour of XSSFCellStyle.getLocked() </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              48314 - Fixed setting column and row breaks in XSSF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51424 - Ignore exceptions in ParagraphSprmUncompressor</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51415 - Fixed Workbook.createSheet(sheetName) to truncate names longer than 31 characters</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51332 - Fixed internal IDs of shapes generated by HSSFPatriarch when there are more than 1023 drawing objects </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              48408 - Improved documentation for Sheet.setColumnWidth </description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51390 - Added handling of additional properties to HWPF ParagraphSprmCompressor</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51389 - Support for sprmPJc paragraph SPRM in HWPF</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              48469 - New Case Study for POI web site  </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              50681 - Avoid exceptions in HSSFDataFormat.getDataFormatString()  </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              50681 - Fixed autosizing columns beyond 255 character limit </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51374 - Fixed incorrect setting of lastPrinted OOXML core property </description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51351 - Word to XSL-FO converter</description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              50458 - Fixed missing shapeId in XSSF drawings </description></item><item><title> fix</title><link>http://poi.apache.org//changes.html</link><description> fix
+              by 
+              poi-developers
+              :
+              51339 - Fixed arithmetic rounding in formula evaluation </description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51356 - Support autoSizeColumn in SXSSF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51335 - Parse picture goal and crop sizes in HWPF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51305 - Add sprmTCellPaddingDefault support in HWPF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51265 - Enhanced Handling of Picture Parts in XWPF</description></item><item><title> add</title><link>http://poi.apache.org//changes.html</link><description> add
+              by 
+              poi-developers
+              :
+              51292 - Additional HWPF Table Cell Descriptor values</description></item></channel></rss>
